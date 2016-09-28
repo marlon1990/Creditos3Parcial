@@ -1,5 +1,5 @@
 {
-  "name": "figuras",
+  "name": "frutas",
   "private": true,
   "scripts": {
     "start": "meteor run"
